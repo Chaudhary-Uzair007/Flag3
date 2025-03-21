@@ -1,0 +1,24 @@
+.h2{
+    text-align: center;
+}
+.flag{
+    height: 195px;
+    width: 370px;
+    margin-top: 150px;
+    margin-left: 400px;
+}
+.black{
+    height: 65px;
+    width: 370px;
+    background-color: black;
+}
+.red{
+    height: 65px;
+    width: 370px;
+    background-color:red;
+}
+.yellow{
+    height: 65px;
+    width: 370px;
+    background-color: yellow;
+}
